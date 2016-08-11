@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Calculate</string>
+    <string name="btn_in">SEND</string>
+    <string name="Txt_Calc">Calculator</string>
+    <string name="Txt_lay1">Enter the number</string>
+
+
+    <string name="Txt_calculate">CALCULATE</string>
+    <string name="Txt_reg">Registration</string>
+    <string name="Txt_palindrome">Palindrome?</string>
+    <string name="Txt_loginWithFacebook">Login with Facebook</string>
+    <string name="Txt_loginWithGoogle">Login with Google</string>
+    <string name="Txt_loginWithTwitter">Login with Twitter</string>
+    <string name="Txt_pairs_example">Enter the pairs(Example: 12 34 56 78 43 83)</string>
+
+
+    <string name="Txt_ForgetPass">Forgotten Password?</string>
+</resources>
